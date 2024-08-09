@@ -1,0 +1,274 @@
+{
+    "dados": [
+        {
+            "id": 1,
+            "titulo": "Oppenheimer",
+            "descricao": "O físico J. Robert Oppenheimer trabalha com uma equipe de cientistas durante o Projeto Manhattan, levando ao desenvolvimento da bomba atômica.",
+            "url": "https://www.primevideo.com/dp/amzn1.dv.gti.f60cf07a-7363-411e-9f4a-b93b568ef3d3?autoplay=0&ref_=atv_cf_strg_wb",
+            "imagem": "./img/Oppenheimer.jpeg",
+            "categoria": "drama",
+            "tipo": "filme"
+        },
+        {
+            "id": 2,
+            "titulo": "Um Sonho de Liberdade",
+            "descricao": "Dois homens presos se reúnem ao longo de vários anos, encontrando consolo e eventual redenção através de atos de decência comum.",
+            "url": "https://www.youtube.com/embed/y8FeZMv37WU",
+            "imagem": "./img/umsonhodeliberdade.jpg",
+            "categoria": "drama",
+            "tipo": "filme"
+        },
+        {
+            "id": 3,
+            "titulo": "O Poderoso Chefão",
+            "descricao": "O patriarca idoso de uma dinastia do crime organizado transfere o controle de seu império clandestino para seu filho relutante.",
+            "url": "https://www.primevideo.com/detail/amzn1.dv.gti.e0bcac3b-3ec2-4fda-8faa-7afc95dc7dd4",
+            "imagem": "./img/O-Poderoso-Chefão.jpg",
+            "categoria": "drama",
+            "tipo": "filme"
+        },
+        {
+            "id": 4,
+            "titulo": "Batman: O Cavaleiro das Trevas",
+            "descricao": "Agora com a ajuda do tenente Jim Gordon e do promotor público Harvey Dent, Batman tem tudo para banir o crime de Gotham City de uma vez por todas. Mas em breve, os três serão vítimas do Coringa, que pretende lançar Gotham em uma anarquia.",
+            "url": "https://play.max.com/video/watch/46c5fcd3-9081-49e1-941f-5f31abd27f98",
+            "imagem": "./img/The_Dark_Knight.jpg",
+            "categoria": "acao",
+            "tipo": "filme"
+        },
+        {
+            "id": 5,
+            "titulo": "Interestelar",
+            "descricao": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço, na tentativa de garantir a sobrevivência da humanidade.",
+            "url": "https://play.max.com/video/watch/1a924f82-6366-475d-8fa0-645c502b368b",
+            "imagem": "./img/Interstellar.jpg",
+            "categoria": "ficcao cientifica",
+            "tipo": "filme"
+        },
+        {
+            "id": 6,
+            "titulo": "Vingadores: Guerra Infinita",
+            "descricao": "Os Vingadores e seus aliados deverão sacrificar tudo em uma tentativa de derrotar o poderoso Thanos antes que sua explosão de devastação ponha fim ao universo.",
+            "url": "https://www.disneyplus.com/pt-br/browse/entity-9a136e06-852a-41bf-b71d-fa061cb43225",
+            "imagem": "./img/vingadoresguerra.jpg",
+            "categoria": "acao",
+            "tipo": "filme"
+        },
+        {
+            "id": 7,
+            "titulo": "Homem-Aranha: No Aranhaverso",
+            "descricao": "O adolescente Miles Morales se torna o Homem-Aranha de seu universo e deve se juntar a cinco indivíduos com poderes de aranha de outras dimensões para impedir uma ameaça para todas as realidades.",
+            "url": "https://www.primevideo.com/detail/amzn1.dv.gti.eab8bae1-f749-6d5c-1fcb-dd8a92c7b162",
+            "imagem": "./img/homemaranhanoaranhaverso.jpg",
+            "categoria": "acao",
+            "tipo": "filme"
+        },
+        {
+            "id": 8,
+            "titulo": "Coringa",
+            "descricao": "Um comediante falido enlouquece e se torna um assassino psicopata.",
+            "url": "https://play.max.com/video/watch/7f45991d-93ca-445c-951f-49497cc9ba71",
+            "imagem": "./img/coringa.jpg",
+            "categoria": "drama",
+            "tipo": "filme"
+        },
+        {
+            "id": 9,
+            "titulo": "Homem-Aranha: Sem Volta para Casa",
+            "descricao": "Com a identidade de Homem-Aranha revelada, Peter Parker pede ajuda ao Doutor Estranho.",
+            "url": "https://www.primevideo.com/detail/amzn1.dv.gti.df5db546-ce75-4f60-8e7e-f9a68e00a2c1",
+            "imagem": "./img/homemsemvolta.jpg",
+            "categoria": "acao",
+            "tipo": "filme"
+        },
+        {
+            "id": 10,
+            "titulo": "O Exorcista",
+            "descricao": "Quando uma adolescente é possuída por uma entidade misteriosa, sua mãe busca a ajuda de um padre, que também é um psiquiatra, para salvar sua filha.",
+            "url": "https://play.max.com/video/watch/347e7a53-75bc-42a8-b3bd-9cb56acf54174",
+            "imagem": "./img/The_Exorcist_1973.jpg",
+            "categoria": "terror",
+            "tipo": "filme"
+        },
+        {
+            "id": 11,
+            "titulo": "The Office",
+            "descricao": "A história de um escritório que enfrenta uma redução de pessoal. Um documentário segue a equipe e o gerente David Brent.",
+            "url": "https://play.max.com/show/ca4e18bf-bec0-41d7-9b04-a3992a312428",
+            "imagem": "./img/theoffice.jpg",
+            "categoria": "comedia",
+            "tipo": "serie"
+        },
+        {
+            "id": 12,
+            "titulo": "O Problema dos 3 Corpos",
+            "descricao": "Uma fatídica decisão tomada na China dos anos 60 ecoa através do espaço e do tempo até um grupo de cientistas no presente, forçando-os a enfrentar a maior ameaça à humanidade.",
+            "url": "https://www.netflix.com/watch/81024821?source=35",
+            "imagem": "./img/o-problema-dos-3-corpos-poster.jpg",
+            "categoria": "ficcao cientifica",
+            "tipo": "serie"
+        },
+        {
+            "id": 13,
+            "titulo": "Matéria Escura",
+            "descricao": "Jason Dessen, pai de família, é sequestrado em outro mundo onde sua vida não é sua vida. Sua jornada para voltar para casa o leva a mundos que ele nunca poderia ter imaginado.",
+            "url": "https://srv.clickfuse.com/ads/adclkr.php?id=100006140&url=https%3A%2F%2Ftv.apple.com%2Fbr%2Fchannel%2Ftvs.sbd.4000",
+            "imagem": "./img/materiaescura.jpg",
+            "categoria": "ficcao cientifica",
+            "tipo": "serie"
+        },
+        {
+            "id": 14,
+            "titulo": "The Boys",
+            "descricao": "Um grupo de vigilantes são dados o trabalho de deter super heroís que abusam da suas potências.",
+            "url": "https://www.primevideo.com/detail/amzn1.dv.gti.5eb510bc-7578-d2dd-49d3-484070a96b52",
+            "imagem": "./img/theboys.jpg",
+            "categoria": "acao",
+            "tipo": "serie"
+        },
+        {
+            "id": 15,
+            "titulo": "A Maldição da Residência Hill",
+            "descricao": "Uma família fraturada confronta memórias assombradas de sua antiga casa e os eventos aterrorizantes que os expulsaram dela.",
+            "url": "https://www.netflix.com/watch/80189221?source=35",
+            "imagem": "./img/A Maldição da Residência Hill.jpg",
+            "categoria": "terror",
+            "tipo": "serie"
+        },
+        {
+            "id": 16,
+            "titulo": "Vikings",
+            "descricao": "Os vikings nos transportam para o mundo brutal e misterioso de um guerreiro e fazendeiro que deseja explorar e atacar os litorais distantes do outro lado do oceano..",
+            "url": "https://www.netflix.com/watch/70301870?source=35",
+            "imagem": "./img/vikings.jpg",
+            "categoria": "acao",
+            "tipo": "serie"
+        },
+        {
+            "id": 17,
+            "titulo": "Breaking Bad",
+            "descricao": "Um professor de química diagnosticado com câncer de pulmão se transforma em fabricante e vendedor de metanfetamina, a fim de garantir o futuro da sua família.",
+            "url": "https://www.netflix.com/watch/70143836?source=35",
+            "imagem": "./img/breakingbad.jpg",
+            "categoria": "drama",
+            "tipo": "serie"
+        },
+        {
+            "id": 18,
+            "titulo": "Game of Thrones",
+            "descricao": "Nove famílias nobres lutam pelo controle sobre as terras míticas de Westeros, enquanto um antigo inimigo retorna depois de estar adormecido por milhares d",
+            "url": "https://play.max.com/show/4f6b4985-2dc9-4ab6-ac79-d60f0860b0ac",
+            "imagem": "./img/gameofthrones.jpg",
+            "categoria": "drama",
+            "tipo": "serie"
+        },
+        {
+            "id": 19,
+            "titulo": "Peaky Blinders: Sangue, Apostas e Navalhas",
+            "descricao": "Depois de servir no Exército, Thomas Shelby e seus irmãos voltam para controlar a cidade, mas, conforme as ambições de Shelby se estendem, ele planeja construir seu próprio negócio e impedir qualquer um que atrapalhe.",
+            "url": "https://www.netflix.com/watch/80002479?source=35",
+            "imagem": "./img/PeakyBlinders.jpg",
+            "categoria": "drama",
+            "tipo": "serie"
+        },
+        {
+            "id": 20,
+            "titulo": "Rick e Morty",
+            "descricao": "Uma série animada que segue as façanhas de um super cientista e seu neto não tão brilhante.",
+            "url": "https://play.max.com/show/ab553cdc-e15d-4597-b65f-bec9201fd2dd",
+            "imagem": "./img/rickandmorty.jpg",
+            "categoria": "comedia",
+            "tipo": "serie"
+        },
+        {
+            "id": 21,
+            "titulo": "Cyberpunk: Mercenários",
+            "descricao": "Para sobreviver em uma realidade distópica na qual a corrupção e os implantes cibernéticos controlam tudo, um jovem talentoso e impulsivo decide se tornar um mercenário.",
+            "url": "https://www.netflix.com/watch/81054853?source=35",
+            "imagem": "./img/CyberpunkMercenários.jpg",
+            "categoria": "ficcao cientifica",
+            "tipo": "anime"
+        },
+        {
+            "id": 22,
+            "titulo": "Ataque dos Titãs",
+            "descricao": "Depois que sua cidade é destruída e sua mãe é morta, um jovem promete limpar a terra dos humanóides que levaram a humanidade à beira da extinção.",
+            "url": "https://www.primevideo.com/detail/amzn1.dv.gti.5eacf84a-4e95-6ecb-83e4-f9141b719074",
+            "imagem": "./img/AtaquedosTitãs.jpg",
+            "categoria": "acao",
+            "tipo": "anime"
+        },
+        {
+            "id": 23,
+            "titulo": "Jujutsu Kaisen",
+            "descricao": "Um menino engole um talismã maldito e se torna amaldiçoado. Ele entra na escola de um xamã para poder localizar as outras partes do corpo do demônio e assim se exorcizar.",
+            "url": "https://www.primevideo.com/detail/amzn1.dv.gti.977bdb74-c52a-4c18-ac31-dc6bdfd3fc63",
+            "imagem": "./img/jujutsu.jpg",
+            "categoria": "acao",
+            "tipo": "anime"
+        },
+        {
+            "id": 24,
+            "titulo": "Dragon Ball Z",
+            "descricao": "Depois de descobrir que ele é de outro planeta, Goku e seus amigos são forçados a defendê-lo de um ataque de inimigos extraterrestres.",
+            "url": "https://www.primevideo.com/detail/amzn1.dv.gti.4dc7731d-a923-41d8-998d-772875d64c9c",
+            "imagem": "./img/dragonballz.jpg",
+            "categoria": "acao",
+            "tipo": "anime"
+        },
+        {
+            "id": 25,
+            "titulo": "Kaguya-Sama: Love is War",
+            "descricao": "Os líderes do conselho estudantil, Kaguya Shinomiya e Miyuki Shirogane, estão apaixonados um pelo outro, mas são orgulhosos demais para confessar seu amor, e agora estão brigando pra ver quem faz o outro se declarar primeiro",
+            "url": "https://www.primevideo.com/detail/amzn1.dv.gti.c1956c6f-ed26-4a76-bb93-0c40d1051b0c",
+            "imagem": "./img/kaguyasama.jpg",
+            "categoria": "comedia",
+            "tipo": "anime"
+        },
+        {
+            "id": 26,
+            "titulo": "One Punch Man",
+            "descricao": "A história de Saitama, um herói apenas por diversão que pode derrotar seus inimigos com um único soco.",
+            "url": "https://www.netflix.com/watch/80117291?source=35",
+            "imagem": "./img/OnePunchMan.jpg",
+            "categoria": "acao",
+            "tipo": "anime"
+        },
+        {
+            "id": 27,
+            "titulo": "The Promised Neverland",
+            "descricao": "As crianças astutas de um orfanato descobrem a verdade sombria sobre sua casa e planejam fugir e salvar todos os seus companheiros.",
+            "url": "https://www.primevideo.com/detail/amzn1.dv.gti.7c926605-6497-4a2b-916f-7c2a4868e0db",
+            "imagem": "./img/ThePromisedNeverland.jpg",
+            "categoria": "terror",
+            "tipo": "anime"
+        },
+        {
+            "id": 28,
+            "titulo": "Code Geass: Lelouch of the Rebellion",
+            "descricao": "Depois de receber um poder misterioso para controlar os outros, um príncipe marginalizado se torna o líder mascarado da rebelião contra um império todo-poderoso.",
+            "url": "https://www.primevideo.com/detail/amzn1.dv.gti.2ffa88d2-f1d3-48a9-b493-e90036492316",
+            "imagem": "./img/CodeGeassLelouchoftheRebellion.jpg",
+            "categoria": "ficcao cientifica",
+            "tipo": "anime"
+        },
+        {
+            "id": 29,
+            "titulo": "Hellsing Ultimate",
+            "descricao": " Alucard, o Rei Vampiro, lutara contra os nazistas e seu exército de vampiros para proteger a Inglaterra.",
+            "url": "https://www.netflix.com/br/title/80988066",
+            "imagem": "./img/HellsingUltimate.jpg",
+            "categoria": "terror",
+            "tipo": "anime"
+        },
+        {
+            "id": 30,
+            "titulo": "Cowboy Bebop",
+            "descricao": "As desventuras e tragédias futuristas de um caçador de recompensas e seus companheiros.",
+            "url": "https://www.primevideo.com/detail/amzn1.dv.gti.84adea3b-324e-7173-bbf6-253be737320f",
+            "imagem": "./img/CowboyBebop.jpg",
+            "categoria": "ficcao cientifica",
+            "tipo": "anime"
+        }
+    ]
+}
